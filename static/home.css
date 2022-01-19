@@ -1,0 +1,39 @@
+.screenshot_gradient{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(40%, rgba(216,216,216,0)), to(#0d0d1f));
+}
+
+.max-1-line {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.idol_verify {
+    background: url(ic_verified.png);
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-size: cover;
+    vertical-align: middle;
+}
+
+.radius {
+    border-radius: 1rem;
+}
+
+.radius-5 {
+    border-radius: 0.5rem;
+}
+
+.radius-10 {
+    border-radius: 1rem;
+}

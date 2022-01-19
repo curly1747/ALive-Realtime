@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="static.alive.vn" id="657a284a-06c6-4d08-9962-af3047d3ecaf" port="22" nameFormat="DESCRIPTIVE" username="sftpadmin" />
+    </configs>
+  </component>
+</project>

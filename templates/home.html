@@ -1,0 +1,94 @@
+{% extends "base/base.html" %}
+
+{% block meta %}
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta charset="utf-8"/>
+    <meta property="og:locale" content="vi_VN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content=""/>
+{% endblock %}
+
+{% block css %}
+    <link href="static/home.css" rel="stylesheet" type="text/css"/>
+{% endblock %}
+
+{% block content %}
+    <div class="row justify-content-center m-5 g-5">
+        {% for stream in stream_list %}
+        <div class="col-xl-2 col-xxl-2">
+            <div class="card">
+                <div class="position-absolute h-100 w-100 d-flex flex-column justify-content-between p-3 z-index-1 fw-boldest" >
+                    <div class="d-flex justify-content-between z-index-1 fw-boldest">
+                        <div class="d-flex align-items-center">
+                            <span class="badge badge-light-danger fs-9">
+                                {{ stream['score'] }}
+                            </span>
+                        </div>
+                        <div>
+                            <button class="btn btn-icon btn-sm btn-color-danger btn-active-color-primary me-n2" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end" data-kt-menu-overflow="true">
+								<!--begin::Svg Icon | path: icons/duotune/general/gen023.svg-->
+								<span class="svg-icon svg-icon-2">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+										<rect opacity="0.3" x="2" y="2" width="20" height="20" rx="4" fill="black"></rect>
+										<rect x="11" y="11" width="2.6" height="2.6" rx="1.3" fill="black"></rect>
+										<rect x="15" y="11" width="2.6" height="2.6" rx="1.3" fill="black"></rect>
+										<rect x="7" y="11" width="2.6" height="2.6" rx="1.3" fill="black"></rect>
+									</svg>
+								</span>
+								<!--end::Svg Icon-->
+							</button>
+                            <div class="menu menu-sub menu-sub-dropdown menu-column menu-rounded menu-gray-800 menu-state-bg-light-primary fw-bold w-200px py-3" data-kt-menu="true" data-popper-placement="bottom-end" style="z-index: 105; position: fixed; inset: 0px 0px auto auto; margin: 0px; transform: translate3d(-495px, 172px, 0px);">
+                                <!--begin::Heading-->
+                                <div class="menu-item px-3">
+                                    <div class="menu-content text-muted pb-2 px-3 fs-7 text-uppercase">QUICK ACTIONS</div>
+                                </div>
+                                <!--end::Heading-->
+                                <!--begin::Menu item-->
+                                <div class="menu-item px-3">
+                                    <a class="ban-stream menu-link px-3" data-user-id="{{ stream['userId'] }}">Ban</a>
+                                </div>
+                                <!--end::Menu item-->
+                                <!--begin::Menu item-->
+                                <div class="menu-item px-3">
+                                    <a class="delete-stream menu-link px-3" data-user-id="{{ stream['userId'] }}">Delete</a>
+                                </div>
+                                <!--end::Menu item-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column align-items-end h-75">
+                        {% for package in stream['packages'] %}
+                        <img class="mh-40px mh-40px mb-3" src="{{ package['icon'] if package['icon'] else package['thumbnail']}}"/>
+                        {% endfor %}
+                    </div>
+                    <div class="d-flex flex-column align-items-center z-index-1 fw-boldest">
+                        <span class="mb-3 max-1-line">{{ stream['title'] }}</span>
+                        <span class="max-1-line">{{ stream['displayName'] }}</span>
+                        <span>
+                            {% if stream['verified'] == True %}
+                            <i class="idol_verify me-1"></i>
+                            {% endif %}
+                            {{ stream['userId'] }}
+                        </span>
+                    </div>
+                </div>
+                <div class="screenshot_gradient w-100 h-100 radius-5"></div>
+                <img class="stream-thumbnail radius-10" data-src="static/screenshot/{{ stream['streamId'] }}.jpg" src="static/screenshot/default.png"/>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock %}
+
+{% block javascript %}
+{#    <script src="static/plugins/custom/datatables/datatables.bundle.js"></script>#}
+    <script src="static/home.js"></script>
+{% endblock %}
+
+{% block drawers %}
+{% endblock %}
+
+{% block modals %}
+{% endblock %}

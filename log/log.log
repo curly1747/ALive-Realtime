@@ -1,0 +1,323 @@
+2021-10-13 13:25:55 [ WARNING] ----------   SESSION MAIN EVENT 09/2021   ----------
+2021-10-13 13:25:55 [    INFO] Config: [['2701', '237', '13'], ['3893', '238', '13'], ['106431', '239', '13'], ['29699', '240', '13'], ['8219', '240', '13'], ['57322', '240', '13'], ['108643', '240', '13'], ['124707', '240', '13'], ['126033', '240', '13'], ['150565', '240', '13'], ['2701', '241', '13'], ['3893', '242', '13'], ['108643', '243', '13'], ['29699', '244', '13'], ['8219', '244', '13'], ['150565', '244', '13'], ['143657', '244', '13'], ['147597', '244', '13'], ['4622', '244', '13'], ['115712', '244', '13'], ['130055', '245', '13'], ['20185', '246', '13'], ['1549', '247', '13'], ['186053', '248', '13'], ['57322', '248', '13'], ['5325', '248', '13'], ['184779', '248', '13'], ['2889', '248', '13'], ['186054', '248', '13'], ['184773', '248', '13']]
+2021-10-13 13:25:56 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 1 Revenue
+2021-10-13 13:25:56 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top 2 Revenue
+2021-10-13 13:25:57 [    INFO] ---  106431: E20210501  | [Main Event] Final Reward - Idol - Top 3 Revenue
+2021-10-13 13:25:57 [    INFO] ---   29699: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:57 [    INFO] ---    8219: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:57 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:57 [    INFO] ---  108643: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:57 [    INFO] ---  124707: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:57 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:58 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-10-13 13:25:58 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 1 Active
+2021-10-13 13:25:58 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top 2 Active
+2021-10-13 13:25:58 [    INFO] ---  108643: E20210501  | [Main Event] Final Reward - Idol - Top 3 Active
+2021-10-13 13:25:58 [    INFO] ---   29699: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:58 [    INFO] ---    8219: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:58 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:58 [    INFO] ---  143657: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:59 [    INFO] ---  147597: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:59 [    INFO] ---    4622: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:59 [    INFO] ---  115712: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-10-13 13:25:59 [    INFO] ---  130055: E20210501  | [Main Event] Final Reward - User - Top 1
+2021-10-13 13:25:59 [    INFO] ---   20185: E20210501  | [Main Event] Final Reward - User - Top 2
+2021-10-13 13:25:59 [    INFO] ---    1549: E20210501  | [Main Event] Final Reward - User - Top 3
+2021-10-13 13:25:59 [    INFO] ---  186053: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---    5325: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---  184779: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---    2889: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---  186054: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [    INFO] ---  184773: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-10-13 13:26:00 [ WARNING] ----------          END SESSION           ----------
+2021-10-13 13:26:00 [ WARNING]  
+2021-10-13 13:35:24 [ WARNING] ----------  SESSION GIFT HUNTER 09/2021   ----------
+2021-10-13 13:35:24 [    INFO] Config: [['2701', '250', '15'], ['3893', '251', '15'], ['150565', '252', '15'], ['2322', '253', '15'], ['57322', '253', '15'], ['170058', '253', '15'], ['108643', '253', '15'], ['171989', '253', '15'], ['126033', '253', '15'], ['1198', '253', '15'], ['153840', '250', '15'], ['170058', '251', '15'], ['143657', '252', '15'], ['179385', '253', '15'], ['4622', '253', '15'], ['3815', '253', '15'], ['115712', '253', '15'], ['160187', '253', '15'], ['124707', '253', '15'], ['150565', '253', '15'], ['186054', '254', '15'], ['5325', '255', '15'], ['167877', '256', '15'], ['124367', '257', '15'], ['12004', '257', '15'], ['184015', '257', '15'], ['57322', '257', '15'], ['188186', '257', '15'], ['36167', '257', '15'], ['88269', '257', '15']]
+2021-10-13 13:35:27 [    INFO] ---    2701: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-10-13 13:35:27 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-10-13 13:35:27 [    INFO] ---  150565: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-10-13 13:35:27 [    INFO] ---    2322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:27 [    INFO] ---   57322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---  108643: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---  171989: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---  126033: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---    1198: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:28 [    INFO] ---  153840: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-10-13 13:35:28 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-10-13 13:35:29 [    INFO] ---  143657: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-10-13 13:35:29 [    INFO] ---  179385: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---    4622: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---    3815: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---  115712: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---  160187: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---  124707: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:29 [    INFO] ---  150565: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 13:35:30 [    INFO] ---  186054: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 1
+2021-10-13 13:35:30 [    INFO] ---    5325: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 2
+2021-10-13 13:35:30 [    INFO] ---  167877: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 3
+2021-10-13 13:35:30 [    INFO] ---  124367: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:30 [    INFO] ---   12004: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:30 [    INFO] ---  184015: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:30 [    INFO] ---   57322: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:31 [    INFO] ---  188186: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:31 [    INFO] ---   36167: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:31 [    INFO] ---   88269: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 13:35:31 [ WARNING] ----------          END SESSION           ----------
+2021-10-13 13:35:31 [ WARNING]  
+2021-10-13 14:13:40 [ WARNING] ----------  SESSION GIFT HUNTER 09/2021   ----------
+2021-10-13 14:13:40 [    INFO] Config: [['2701', '250', '15'], ['3893', '251', '15'], ['150565', '252', '15'], ['2322', '253', '15'], ['57322', '253', '15'], ['170058', '253', '15'], ['108643', '253', '15'], ['171989', '253', '15'], ['126033', '253', '15'], ['1198', '253', '15'], ['153840', '250', '15'], ['170058', '251', '15'], ['143657', '252', '15'], ['179385', '253', '15'], ['4622', '253', '15'], ['3815', '253', '15'], ['115712', '253', '15'], ['160187', '253', '15'], ['124707', '253', '15'], ['150565', '253', '15'], ['186054', '254', '15'], ['5325', '255', '15'], ['167877', '256', '15'], ['124367', '257', '15'], ['12004', '257', '15'], ['184015', '257', '15'], ['57322', '257', '15'], ['188186', '257', '15'], ['36167', '257', '15'], ['88269', '257', '15']]
+2021-10-13 14:13:42 [    INFO] ---    2701: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-10-13 14:13:42 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-10-13 14:13:43 [    INFO] ---  150565: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-10-13 14:13:43 [    INFO] ---    2322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---   57322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---  108643: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---  171989: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---  126033: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:43 [    INFO] ---    1198: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:44 [    INFO] ---  153840: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-10-13 14:13:44 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-10-13 14:13:44 [    INFO] ---  143657: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-10-13 14:13:44 [    INFO] ---  179385: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:44 [    INFO] ---    4622: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:44 [    INFO] ---    3815: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:44 [    INFO] ---  115712: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:44 [    INFO] ---  160187: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:45 [    INFO] ---  124707: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:45 [    INFO] ---  150565: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-10-13 14:13:45 [    INFO] ---  186054: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 1
+2021-10-13 14:13:45 [    INFO] ---    5325: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 2
+2021-10-13 14:13:45 [    INFO] ---  167877: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 3
+2021-10-13 14:13:45 [    INFO] ---  124367: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:45 [    INFO] ---   12004: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:45 [    INFO] ---  184015: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:46 [    INFO] ---   57322: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:46 [    INFO] ---  188186: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:46 [    INFO] ---   36167: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:46 [    INFO] ---   88269: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-10-13 14:13:46 [ WARNING] ----------          END SESSION           ----------
+2021-10-13 14:13:46 [ WARNING]  
+2021-11-16 11:54:06 [ WARNING] ----------  SESSION GIFT HUNTER 09/2021   ----------
+2021-11-16 11:54:06 [    INFO] Config: [['197036', '250', '15'], ['81653', '251', '15'], ['3815', '252', '15'], ['181649', '253', '15'], ['2322', '253', '15'], ['126033', '253', '15'], ['124707', '253', '15'], ['179702', '253', '15'], ['3893', '253', '15'], ['170058', '253', '15'], ['31470', '250', '15'], ['194705', '251', '15'], ['1694', '252', '15'], ['115712', '253', '15'], ['181649', '253', '15'], ['57322', '253', '15'], ['81653', '253', '15'], ['19124', '253', '15'], ['147597', '253', '15'], ['3893', '253', '15'], ['12560', '254', '15'], ['197394', '255', '15'], ['86762', '256', '15'], ['2164', '257', '15'], ['182308', '257', '15'], ['19827', '257', '15'], ['81653', '257', '15'], ['165763', '257', '15'], ['31470', '257', '15'], ['26553', '257', '15']]
+2021-11-16 11:54:08 [    INFO] ---  197036: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-11-16 11:54:08 [    INFO] ---   81653: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-11-16 11:54:08 [    INFO] ---    3815: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-11-16 11:54:08 [    INFO] ---  181649: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---    2322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---  126033: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---  124707: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---  179702: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:09 [    INFO] ---   31470: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2021-11-16 11:54:09 [    INFO] ---  194705: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2021-11-16 11:54:10 [    INFO] ---    1694: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2021-11-16 11:54:10 [    INFO] ---  115712: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---  181649: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---   57322: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---   81653: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---   19124: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---  147597: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:10 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2021-11-16 11:54:11 [    INFO] ---   12560: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 1
+2021-11-16 11:54:11 [    INFO] ---  197394: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 2
+2021-11-16 11:54:11 [    INFO] ---   86762: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 3
+2021-11-16 11:54:11 [    INFO] ---    2164: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:11 [    INFO] ---  182308: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:11 [    INFO] ---   19827: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:11 [    INFO] ---   81653: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:11 [    INFO] ---  165763: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:12 [    INFO] ---   31470: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:12 [    INFO] ---   26553: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2021-11-16 11:54:12 [ WARNING] ----------          END SESSION           ----------
+2021-11-16 11:54:12 [ WARNING]  
+2021-11-16 11:56:18 [ WARNING] ----------  SESSION GIFT HUNTER 09/2021   ----------
+2021-11-16 11:56:18 [    INFO] Config: [['2701', '237', '13'], ['174709', '238', '13'], ['20296', '239', '13'], ['57322', '240', '13'], ['2791', '240', '13'], ['81653', '240', '13'], ['126033', '240', '13'], ['160187', '240', '13'], ['168548', '240', '13'], ['150565', '240', '13'], ['2701', '241', '13'], ['174709', '242', '13'], ['20296', '243', '13'], ['81653', '244', '13'], ['150565', '244', '13'], ['166634', '244', '13'], ['4622', '244', '13'], ['108643', '244', '13'], ['29699', '244', '13'], ['126033', '244', '13'], ['16468', '245', '13'], ['194124', '246', '13'], ['57322', '247', '13'], ['5143', '248', '13'], ['171004', '248', '13'], ['194954', '248', '13'], ['195385', '248', '13'], ['195387', '248', '13'], ['1152', '248', '13'], ['189762', '248', '13']]
+2021-11-16 11:56:20 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 1 Revenue
+2021-11-16 11:56:20 [    INFO] ---  174709: E20210501  | [Main Event] Final Reward - Idol - Top 2 Revenue
+2021-11-16 11:56:20 [    INFO] ---   20296: E20210501  | [Main Event] Final Reward - Idol - Top 3 Revenue
+2021-11-16 11:56:20 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:20 [    INFO] ---    2791: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:20 [    INFO] ---   81653: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:20 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:21 [    INFO] ---  160187: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:21 [    INFO] ---  168548: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:21 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-11-16 11:56:21 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 1 Active
+2021-11-16 11:56:21 [    INFO] ---  174709: E20210501  | [Main Event] Final Reward - Idol - Top 2 Active
+2021-11-16 11:56:21 [    INFO] ---   20296: E20210501  | [Main Event] Final Reward - Idol - Top 3 Active
+2021-11-16 11:56:21 [    INFO] ---   81653: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:21 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---  166634: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---    4622: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---  108643: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---   29699: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-11-16 11:56:22 [    INFO] ---   16468: E20210501  | [Main Event] Final Reward - User - Top 1
+2021-11-16 11:56:22 [    INFO] ---  194124: E20210501  | [Main Event] Final Reward - User - Top 2
+2021-11-16 11:56:22 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - User - Top 3
+2021-11-16 11:56:23 [    INFO] ---    5143: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:23 [    INFO] ---  171004: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:23 [    INFO] ---  194954: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:23 [    INFO] ---  195385: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:23 [    INFO] ---  195387: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:23 [    INFO] ---    1152: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:24 [    INFO] ---  189762: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-11-16 11:56:24 [ WARNING] ----------          END SESSION           ----------
+2021-11-16 11:56:24 [ WARNING]  
+2021-12-22 16:15:36 [ WARNING] ----------  SESSION GIFT HUNTER 09/2021   ----------
+2021-12-22 16:15:36 [    INFO] Config: [['34773', '237', '13'], ['198491', '238', '13'], ['2701', '239', '13'], ['194705', '240', '13'], ['3893', '240', '13'], ['126033', '240', '13'], ['150565', '240', '13'], ['197036', '240', '13'], ['57322', '240', '13'], ['83336', '240', '13'], ['2701', '241', '13'], ['34773', '242', '13'], ['198491', '243', '13'], ['3893', '244', '13'], ['150565', '244', '13'], ['194705', '244', '13'], ['108643', '244', '13'], ['126033', '244', '13'], ['166634', '244', '13'], ['5698', '244', '13'], ['186115', '245', '13'], ['187763', '246', '13'], ['195385', '247', '13'], ['85268', '248', '13'], ['57322', '248', '13'], ['1549', '248', '13'], ['12560', '248', '13'], ['198139', '248', '13'], ['195702', '248', '13'], ['194954', '248', '13']]
+2021-12-22 16:15:48 [   ERROR] ---   34773: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---  198491: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---    2701: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---  194705: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---    3893: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---  126033: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---  150565: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---  197036: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---   57322: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:48 [   ERROR] ---   83336: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---    2701: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---   34773: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  198491: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---    3893: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  150565: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  194705: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  108643: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  126033: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  166634: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---    5698: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  186115: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  187763: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---  195385: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---   85268: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:49 [   ERROR] ---   57322: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [   ERROR] ---    1549: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [   ERROR] ---   12560: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [   ERROR] ---  198139: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [   ERROR] ---  195702: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [   ERROR] ---  194954: {'code': -400, 'message': 'User not found'}
+2021-12-22 16:15:50 [ WARNING] ----------          END SESSION           ----------
+2021-12-22 16:15:50 [ WARNING]  
+2021-12-22 16:17:44 [ WARNING] ----------   SESSION MAIN EVENT 11/2021   ----------
+2021-12-22 16:17:44 [    INFO] Config: [['34773', '237', '13'], ['198491', '238', '13'], ['2701', '239', '13'], ['194705', '240', '13'], ['3893', '240', '13'], ['126033', '240', '13'], ['150565', '240', '13'], ['197036', '240', '13'], ['57322', '240', '13'], ['83336', '240', '13'], ['2701', '241', '13'], ['34773', '242', '13'], ['198491', '243', '13'], ['3893', '244', '13'], ['150565', '244', '13'], ['194705', '244', '13'], ['108643', '244', '13'], ['126033', '244', '13'], ['166634', '244', '13'], ['5698', '244', '13'], ['186115', '245', '13'], ['187763', '246', '13'], ['195385', '247', '13'], ['85268', '248', '13'], ['57322', '248', '13'], ['1549', '248', '13'], ['12560', '248', '13'], ['198139', '248', '13'], ['195702', '248', '13'], ['194954', '248', '13']]
+2021-12-22 16:17:54 [    INFO] ---   34773: E20210501  | [Main Event] Final Reward - Idol - Top 1 Revenue
+2021-12-22 16:17:54 [    INFO] ---  198491: E20210501  | [Main Event] Final Reward - Idol - Top 2 Revenue
+2021-12-22 16:17:54 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 3 Revenue
+2021-12-22 16:17:54 [    INFO] ---  194705: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:54 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:54 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:54 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:55 [    INFO] ---  197036: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:55 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:55 [    INFO] ---   83336: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2021-12-22 16:17:55 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 1 Active
+2021-12-22 16:17:55 [    INFO] ---   34773: E20210501  | [Main Event] Final Reward - Idol - Top 2 Active
+2021-12-22 16:17:55 [    INFO] ---  198491: E20210501  | [Main Event] Final Reward - Idol - Top 3 Active
+2021-12-22 16:17:56 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---  194705: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---  108643: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---  166634: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:56 [    INFO] ---    5698: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2021-12-22 16:17:57 [    INFO] ---  186115: E20210501  | [Main Event] Final Reward - User - Top 1
+2021-12-22 16:17:57 [    INFO] ---  187763: E20210501  | [Main Event] Final Reward - User - Top 2
+2021-12-22 16:17:57 [    INFO] ---  195385: E20210501  | [Main Event] Final Reward - User - Top 3
+2021-12-22 16:17:57 [    INFO] ---   85268: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:57 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:57 [    INFO] ---    1549: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:57 [    INFO] ---   12560: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:57 [    INFO] ---  198139: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:58 [    INFO] ---  195702: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:58 [    INFO] ---  194954: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2021-12-22 16:17:58 [ WARNING] ----------          END SESSION           ----------
+2021-12-22 16:17:58 [ WARNING]  
+2022-01-04 15:23:38 [ WARNING] ----------   SESSION MAIN EVENT 11/2021   ----------
+2022-01-04 15:23:38 [    INFO] Config: [['72178', '254', '15'], ['182308', '255', '15'], ['1212', '256', '15'], ['195579', '257', '15'], ['2711', '257', '15'], ['17739', '257', '15'], ['26553', '257', '15'], ['192747', '257', '15'], ['1970', '257', '15'], ['15795', '257', '15'], ['201440', '250', '15'], ['1970', '251', '15'], ['31470', '252', '15'], ['173636', '253', '15'], ['184443', '253', '15'], ['150565', '253', '15'], ['166634', '253', '15'], ['3893', '253', '15'], ['197949', '253', '15'], ['115712', '253', '15'], ['201440', '250', '15'], ['3893', '251', '15'], ['170058', '252', '15'], ['5698', '253', '15'], ['200001', '253', '15'], ['1212', '253', '15'], ['31470', '253', '15'], ['25960', '253', '15'], ['198770', '253', '15'], ['166634', '253', '15']]
+2022-01-04 15:23:39 [    INFO] ---   72178: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 1
+2022-01-04 15:23:40 [    INFO] ---  182308: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 2
+2022-01-04 15:23:40 [    INFO] ---    1212: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 3
+2022-01-04 15:23:40 [    INFO] ---  195579: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:40 [    INFO] ---    2711: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:40 [    INFO] ---   17739: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:40 [    INFO] ---   26553: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:40 [    INFO] ---  192747: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:40 [    INFO] ---    1970: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:41 [    INFO] ---   15795: GIFT_HUNTER | [Mini Event] Final Reward - User - Top 4-10
+2022-01-04 15:23:41 [    INFO] ---  201440: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2022-01-04 15:23:41 [    INFO] ---    1970: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2022-01-04 15:23:41 [    INFO] ---   31470: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2022-01-04 15:23:41 [    INFO] ---  173636: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:41 [    INFO] ---  184443: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:41 [    INFO] ---  150565: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:42 [    INFO] ---  166634: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:42 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:42 [    INFO] ---  197949: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:42 [    INFO] ---  115712: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:42 [    INFO] ---  201440: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 1
+2022-01-04 15:23:42 [    INFO] ---    3893: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 2
+2022-01-04 15:23:42 [    INFO] ---  170058: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 3
+2022-01-04 15:23:42 [    INFO] ---    5698: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---  200001: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---    1212: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---   31470: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---   25960: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---  198770: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [    INFO] ---  166634: GIFT_HUNTER | [Mini Event] Final Reward - Idol - Top 4-10
+2022-01-04 15:23:43 [ WARNING] ----------          END SESSION           ----------
+2022-01-04 15:23:43 [ WARNING]  
+2022-01-04 15:23:55 [ WARNING] ----------   SESSION MAIN EVENT 11/2021   ----------
+2022-01-04 15:23:55 [    INFO] Config: [['170058', '237', '13'], ['57322', '238', '13'], ['5888', '239', '13'], ['3893', '240', '13'], ['181611', '240', '13'], ['29287', '240', '13'], ['87503', '240', '13'], ['150922', '240', '13'], ['195555', '240', '13'], ['115712', '240', '13'], ['72178', '237', '13'], ['126033', '238', '13'], ['2701', '239', '13'], ['150565', '240', '13'], ['194705', '240', '13'], ['196990', '240', '13'], ['5698', '240', '13'], ['2322', '240', '13'], ['19124', '240', '13'], ['192675', '240', '13'], ['126033', '241', '13'], ['2701', '242', '13'], ['170058', '243', '13'], ['150565', '244', '13'], ['181611', '244', '13'], ['57322', '244', '13'], ['196990', '244', '13'], ['3893', '244', '13'], ['72178', '244', '13'], ['195555', '244', '13'], ['1152', '245', '13'], ['206272', '246', '13'], ['2233', '247', '13'], ['98507', '248', '13'], ['49527', '248', '13'], ['200359', '248', '13'], ['169061', '248', '13'], ['57322', '248', '13'], ['200361', '248', '13'], ['195385', '248', '13']]
+2022-01-04 15:23:57 [    INFO] ---  170058: E20210501  | [Main Event] Final Reward - Idol - Top 1 Revenue
+2022-01-04 15:23:57 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - Idol - Top 2 Revenue
+2022-01-04 15:23:57 [    INFO] ---    5888: E20210501  | [Main Event] Final Reward - Idol - Top 3 Revenue
+2022-01-04 15:23:57 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:57 [    INFO] ---  181611: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:57 [    INFO] ---   29287: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:57 [    INFO] ---   87503: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:57 [    INFO] ---  150922: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---  195555: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---  115712: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---   72178: E20210501  | [Main Event] Final Reward - Idol - Top 1 Revenue
+2022-01-04 15:23:58 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top 2 Revenue
+2022-01-04 15:23:58 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 3 Revenue
+2022-01-04 15:23:58 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---  194705: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---  196990: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:58 [    INFO] ---    5698: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:59 [    INFO] ---    2322: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:59 [    INFO] ---   19124: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:59 [    INFO] ---  192675: E20210501  | [Main Event] Final Reward - Idol - Top 4-10 Revenue
+2022-01-04 15:23:59 [    INFO] ---  126033: E20210501  | [Main Event] Final Reward - Idol - Top 1 Active
+2022-01-04 15:23:59 [    INFO] ---    2701: E20210501  | [Main Event] Final Reward - Idol - Top 2 Active
+2022-01-04 15:23:59 [    INFO] ---  170058: E20210501  | [Main Event] Final Reward - Idol - Top 3 Active
+2022-01-04 15:23:59 [    INFO] ---  150565: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:23:59 [    INFO] ---  181611: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:23:59 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:24:00 [    INFO] ---  196990: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:24:00 [    INFO] ---    3893: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:24:00 [    INFO] ---   72178: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:24:00 [    INFO] ---  195555: E20210501  | [Main Event] Final Reward - Idol - Top  4-10 Active
+2022-01-04 15:24:00 [    INFO] ---    1152: E20210501  | [Main Event] Final Reward - User - Top 1
+2022-01-04 15:24:00 [    INFO] ---  206272: E20210501  | [Main Event] Final Reward - User - Top 2
+2022-01-04 15:24:00 [    INFO] ---    2233: E20210501  | [Main Event] Final Reward - User - Top 3
+2022-01-04 15:24:01 [    INFO] ---   98507: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---   49527: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---  200359: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---  169061: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---   57322: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---  200361: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [    INFO] ---  195385: E20210501  | [Main Event] Final Reward - User - Top 4-10
+2022-01-04 15:24:01 [ WARNING] ----------          END SESSION           ----------
+2022-01-04 15:24:01 [ WARNING]  
+2022-01-04 16:14:23 [    INFO] Get ranking success
+2022-01-04 16:14:24 [ WARNING] ----------          END SESSION           ----------
+2022-01-04 16:14:24 [ WARNING]  
+2022-01-04 16:18:01 [ WARNING] ---------- SESSION PHONG THAN 2021-12-27 - 2022-01-03  ----------
+2022-01-04 16:18:01 [    INFO] Get ranking success
+2022-01-04 16:18:03 [ WARNING] ----------          END SESSION           ----------
+2022-01-04 16:18:03 [ WARNING]  

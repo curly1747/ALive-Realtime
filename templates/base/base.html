@@ -1,0 +1,59 @@
+<html lang="en" translate="no"><!--begin::Head-->
+    <head>
+        <meta charset="utf-8">
+        <title>ALive Realtime</title>
+        <base href="../">
+        <meta name="description"
+              content="Craft admin dashboard live demo. Check out all the features of the admin panel. A large number of settings, additional services and widgets.">
+        <meta name="keywords"
+              content="Craft, bootstrap, Angular 10, Vue, React, Laravel, admin themes, free admin themes, bootstrap admin, bootstrap dashboard">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="/static/favicon.ico">
+        <!--begin::Global Stylesheets Bundle(used by all pages)-->
+        <link href="static/plugins.dark.bundle.css" rel="stylesheet" type="text/css">
+        <link href="static/style.dark.bundle.css" rel="stylesheet" type="text/css">
+        <!--end::Global Stylesheets Bundle-->
+        {% block css %}
+        {% endblock %}
+    </head>
+    <!--begin::Body-->
+    <body id="kt_body" class="gorgias-loaded" style="--kt-toolbar-height:55px;--kt-toolbar-height-tablet-and-mobile:55px">
+        <div id="page_loading" class="bg-light w-100 h-100 position-fixed d-flex justify-content-center align-items-center" style="z-index: 95">
+            <div class="loader" id="loader" style="opacity: 0"></div>
+        </div>
+        {% block content %}
+        {% endblock %}
+        <!--end::Main-->
+        <script>var hostUrl = "static/";</script>
+        <!--begin::Javascript-->
+        <!--begin::Global Javascript Bundle(used by all pages)-->
+        <script src="static/nprogress.js"></script>
+        <script>
+            function fadeIn(el, time) {
+                el.style.opacity = 0;
+                let last = +new Date();
+                let tick = function () {
+                    el.style.opacity = +el.style.opacity + (new Date() - last) / time;
+                    last = +new Date();
+                    if (+el.style.opacity < 1) {
+                        (window.requestAnimationFrame && requestAnimationFrame(tick)) || setTimeout(tick, 16);
+                    }
+                };
+                tick();
+            }
+
+            fadeIn(document.getElementById("loader"), 1000);
+            NProgress.configure({showSpinner: false});
+            NProgress.start();
+        </script>
+        <script src="static/plugins.dark.bundle.js"></script>
+        <script src="static/scripts.bundle.js"></script>
+        <script src="static/ultils.js"></script>
+        <!--end::Global Javascript Bundle-->
+        <!--begin::Page Custom Javascript(used by this page)-->
+        {% block javascript %}
+        {% endblock %}
+        <!--end::Page Custom Javascript-->
+        <!--end::Javascript-->
+    </body>
+</html>

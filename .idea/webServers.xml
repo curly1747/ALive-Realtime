@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="44de6936-0a1a-49fc-a2fd-03f80498c0fb" name="static.alive.vn">
+        <fileTransfer accessType="SFTP" host="static.alive.vn" port="22" sshConfigId="657a284a-06c6-4d08-9962-af3047d3ecaf" sshConfig="sftpadmin@static.alive.vn:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
