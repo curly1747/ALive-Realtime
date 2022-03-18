@@ -2,9 +2,11 @@ import os
 from config import ALiveConfig
 import requests
 from returns.result import Success, Failure
+from sqlalchemy import desc
 
 request_session = requests.Session()
 request_session.cookies['authorization'] = ALiveConfig.AUTHORIZATION
+request_session.headers['authorization'] = ALiveConfig.AUTHORIZATION
 
 
 class Getter:
@@ -24,7 +26,8 @@ class Getter:
         import ffmpeg
 
         input_file = f"https://stream.alive.vn/hls/{user_id}/index.m3u8"
-        output_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'static', 'screenshot', f"{user_id}.jpg"))
+        output_file = os.path.abspath(
+            os.path.join(os.path.dirname(__file__), '..', 'static', 'screenshot', f"{user_id}.jpg"))
         try:
             (
                 ffmpeg
@@ -55,6 +58,33 @@ class Getter:
     def source_info(id):
         from resources.models import SourceInfo
         result = SourceInfo.query.filter_by(id=id).first()
+        if not result:
+            return Failure(result)
+        return Success(result)
+
+    @staticmethod
+    def rank_by_material(material_id, from_time, to_time, scheme_id, limit=10):
+        r = request_session.get(
+            f'{ALiveConfig.API_URL}gami/ranking/material?materialId={material_id}&fromTime={from_time}&toTime={to_time}&limit={limit}&schemeId={scheme_id}')
+        try:
+            response = r.json()
+            return Success(response['data']) if response['status']['code'] == 0 else Failure(response)
+        except:
+            return Failure({'message': 'Unknown error'})
+
+    @staticmethod
+    def rank_tra_sua(limit=3):
+        r = request_session.get(f'https://trasua.alive.vn/v1/ranking?limit={limit}')
+        try:
+            response = r.json()
+            return Success(response['data']['users']) if response['code'] == 0 else Failure(response)
+        except:
+            return Failure({'message': 'Unknown error'})
+
+    @staticmethod
+    def idol_star_ranking_1d(limit=10):
+        from resources.models import IdolStarRanking1D
+        result = IdolStarRanking1D.query.order_by(desc(IdolStarRanking1D.total)).limit(limit).all()
         if not result:
             return Failure(result)
         return Success(result)

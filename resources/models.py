@@ -162,3 +162,12 @@ class PhongThanRewardConfig(db.Model):
         'schema': 'gami',
         'autoload_with': db.engine
     }
+
+
+class IdolStarRanking1D(db.Model):
+    __tablename__ = 'idol_star_ranking_1d'
+    __table_args__ = {
+        'autoload': True,
+        'schema': 'wallet',
+        'autoload_with': db.engine
+    }

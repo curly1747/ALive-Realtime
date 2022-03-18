@@ -7,6 +7,6 @@ class DatabaseConfig:
 
 
 class ALiveConfig:
-    AUTHORIZATION = 'e710918a155fa940ad44a8609f16cdd224c702d383538b64361520d3db6b9b4e_1053_pKKDS2MZqy_1642756428301'
+    AUTHORIZATION = 'a11b33fb1edd9a82fd09773e1d3966869d15420f7662bf6d2865fb848c889155_1053_J8kur7k4ZZ_1649912964055'
     TOOL_URL = 'https://tools.alive.vn/cms/v1/'
-    API_URL = 'https://api.alive.vn/'
+    API_URL = 'https://api.alive.vn/v2/'

@@ -56,7 +56,7 @@ class LoggerConfig:
             'file': {
                 'class': 'logging.FileHandler',
                 'formatter': 'standard',
-                'filename': f'{os.getcwd()}/log/log.log',
+                'filename': f'{os.getcwd()}/ALive-Realtime/log/log.log',
                 'filters': ['infofilter', ],
             },
         },
